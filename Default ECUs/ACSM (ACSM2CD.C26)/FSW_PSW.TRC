@@ -1,0 +1,263 @@
+BAUREIHE
+	e70
+TYP_LENKUNG
+	linkslenker
+SEAT_BELT_DISTANCE
+	wert_01
+AIRBAG_BEIFAHRER_1
+	aktiv
+AIRBAG_FAHRER_1
+	aktiv
+BEIFAHRERBAG_STUFE2_1
+	aktiv
+BPLUS_TRENNUNG1_1
+	aktiv
+CC_GURTWARNUNG_1
+	nicht_aktiv
+CURTAIN_BEIFAHRER_1
+	aktiv
+CURTAIN_FAHRER_1
+	aktiv
+FAHRERBAG_STUFE2_1
+	aktiv
+GURTKONTAKT_BEIFAHRER_1
+	aktiv
+GURTKONTAKT_FAHRER_1
+	aktiv
+GURTKONTAKT_FONDLINKS_1
+	nicht_aktiv
+GURTKONTAKT_FONDRECHTS_1
+	nicht_aktiv
+GURTSTRAFFER_BEIFAHRER_1
+	aktiv
+GURTSTRAFFER_FAHRER_1
+	aktiv
+GURTSTRAFFER_FONDLINKS_1
+	nicht_aktiv
+GURTSTRAFFER_FONDRECHTS_1
+	nicht_aktiv
+GURTSTRAMM_SEITENCRASH_1
+	nicht_aktiv
+ITS_SCHRAEGCRASH_1
+	aktiv
+KNIEBAG_BEIFAHRER_1
+	nicht_aktiv
+KNIEBAG_FAHRER_1
+	nicht_aktiv
+OC3_1
+	nicht_aktiv
+POL_1
+	aktiv
+POS_1
+	aktiv
+ROLLOVER_OPTION_1
+	aktiv
+SBE_SCHWELLE_ON
+	wert_01
+SBE_STEP_DOWN
+	wert_01
+SBE_STEP_UP
+	wert_01
+SBE1_1
+	nicht_aktiv
+SBE1_STATUS_VERZ_1
+	aktiv
+SBR_FAHRER_1
+	aktiv
+SEAT_BELT_SPEED
+	wert_01
+SIDEBAG_LINKS_1
+	aktiv
+SIDEBAG_RECHTS_1
+	aktiv
+SLV_BEIFAHRER_1
+	nicht_aktiv
+SLV_FAHRER_1
+	nicht_aktiv
+US_SCHWELLEN_1
+	nicht_aktiv
+ENDBESCHLAGSSTRAMMER_1
+	nicht_aktiv
+GK/OC3/POL_1
+	aktiv
+ROLLOVER_CTRL_1
+	nicht_aktiv
+SPSF_1
+	nicht_aktiv
+SITZBAG_ROLLOVER
+	nicht_aktiv
+SITZBAG_SCHRAEGCRASH
+	nicht_aktiv
+BAUDRATE_SBE_BEIFAHRER_1
+	wert_02
+TCU_UEBERWACHUNG_1
+	aktiv
+AGKB_BEIFAHRER_1
+	nicht_aktiv
+AGKB_FAHRER_1
+	nicht_aktiv
+AGKB_LINKS_1
+	nicht_aktiv
+AGKB_RECHTS_1
+	nicht_aktiv
+AKS_LINKS_C20
+	aktiv
+AKS_RECHTS_C20
+	aktiv
+ARS_BEIFAHRER_1
+	nicht_aktiv
+ARS_FAHRER_1
+	nicht_aktiv
+ARS_LINKS_1
+	nicht_aktiv
+ARS_RECHTS_1
+	nicht_aktiv
+EAM_TIMEDELAY_E88_C20
+	e70_ece
+	e70_us
+	e71_ece
+	e71_us
+	e72_ece
+	e72_us
+FR_HE_PARAM_1_E88_C20
+	e70_ece
+	e71_ece
+	e72_ece
+FR_HE_PARAM_2_E88_C20
+	e70_ece
+	e71_ece
+	e72_ece
+FR_HE_PARAM_3_E88_C20
+	e70_ece
+	e70_us
+	e71_ece
+	e71_us
+	e72_ece
+	e72_us
+FR_HE_PARAM_4_E88_C20
+	e70_ece
+	e70_us
+	e71_ece
+	e71_us
+	e72_ece
+	e72_us
+FR_HE_PARAM_5_E88_C20
+	e70_ece
+	e71_ece
+	e72_ece
+FR_HE_PARAM_6_E88_C20
+	e70_ece
+	e71_ece
+	e72_ece
+GURTZUSTAND_BEIFAHRER_1
+	aktiv
+GURTZUSTAND_FAHRER_1
+	aktiv
+MRSA_TUERE_2
+	nicht_aktiv
+NOTRUF_AACN_1
+	aktiv
+PARAMETERSATZ_0_E88_C20
+	e70_ece
+	e71_ece
+	e72_ece
+POL_MAX_SCHWELLE_C20
+	wert_01
+POL_MIN_SCHWELLE_C20
+	wert_01
+ROSE_II_1
+	aktiv
+ROSE_PARAM_E88_1_C20
+	e70_ece
+	e70_us
+	e71_ece
+	e71_us
+	e72_ece
+	e72_us
+ROSE_PARAM_E88_2_C20
+	e70_ece
+	e70_us
+	e71_ece
+	e71_us
+	e72_ece
+	e72_us
+ROSE_PARAM_E88_C20
+	e70_ece
+	e70_us
+	e71_ece
+	e71_us
+	e72_ece
+	e72_us
+SBR_SENSOR_BEIFAHRER_1
+	aktiv
+SBR_SENSOR_FAHRER_1
+	nicht_aktiv
+SEAT_BELT_MONITOR_CD
+	wert_01
+SEITEN_PARAM_E88_C20
+	e70_ece
+	e71_ece
+	e72_ece
+SITZMEMORY_FAHRER_1
+	nicht_aktiv
+SPSBF_1
+	nicht_aktiv
+UP_FR_PARAM_E88_C20
+	e70_ece
+	e71_ece
+	e72_ece
+UPFRONT_LINKS_C20
+	nicht_aktiv
+UPFRONT_RECHTS_C20
+	nicht_aktiv
+ZMZ_E70_1
+	aktiv
+ZMZ_E88_ECE_1
+	nicht_aktiv
+ZMZ_E88_US_1
+	nicht_aktiv
+ZMZ_E93_1
+	nicht_aktiv
+AUFROLL_SEITENCRASH
+	nicht_aktiv
+SBR_PREWARNING_BF
+	aktiv
+SBR_PREWARNING_FA
+	aktiv
+PYROFUSE
+	nicht_aktiv
+BAUDRATE_SBE_FAHRER_2
+	wert_01
+SBR_BEIFAHRER_2
+	aktiv
+TROMMELSPEICHER_ACSM
+	aktiv
+AACN_INTEGRATIONSDAUER
+	wert_01
+ADAPTIVER_BEIFAHRERAIRBAG
+	nicht_aktiv
+CIS_MATTE
+	nicht_aktiv
+CIS_PARAMETER
+	e93_ece
+	e93_us
+	e88_ece
+	e88_us
+	e70_ece
+	e70_us
+	e71_ece
+	e71_us
+	e72_ece
+	e72_us
+	e84_us
+	e84_us_6zyl
+EAM_TIMEDELAY_E84
+	e88_us
+	e70_ece
+	e70_us
+	e71_ece
+	e71_us
+	e72_ece
+	e72_us
+ZMZ_E84_US
+	nicht_aktiv
