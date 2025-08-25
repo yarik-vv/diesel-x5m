@@ -1,0 +1,168 @@
+BAUREIHE
+	e70
+KENNFELDKUEHLUNG
+	nicht_aktiv
+ZUSATZHEIZLEISTUNG
+	aktiv
+OFF_MEMORY_KEY_1
+	nicht_aktiv
+OFF_MEMORY_KEY_2
+	nicht_aktiv
+OFF_MEMORY_KEY_3
+	nicht_aktiv
+OFF_MEMORY_KEY_4
+	nicht_aktiv
+KLIMA_SG_ART_Z
+	high_4_zonig
+STANDHEIZUNG
+	aktiv
+PSEUDOZUHEIZEN
+	aktiv
+ZUHEIZUNG
+	aktiv
+ELEKTR_MOTORWASSERPUMPE
+	nicht_aktiv
+LDA_B_KLIMABEREITSCHAFT
+	nicht_aktiv
+KMV_UEBERSETZUNG
+	m57d30
+SITZLUEFTUNG
+	nicht_aktiv
+UMWAELZPUMPE
+	aktiv
+WASSERPUMPE
+	nicht_aktiv
+ELSV
+	aktiv
+GLEITENDE_VERDAMPFERTEMP
+	aktiv
+LHZ
+	nicht_aktiv
+PTC
+	nicht_aktiv
+SITZHEIZUNG_IHKA
+	aktiv
+ABWAHL_AC_KEY_1
+	aktiv
+ABWAHL_AC_KEY_2
+	aktiv
+ABWAHL_AC_KEY_3
+	aktiv
+ABWAHL_AC_KEY_4
+	aktiv
+ABWAHL_AC_KEY_DEF
+	aktiv
+ABWAHL_AC_KEY_WS
+	aktiv
+AUTO_EIN_BEI_KL_15_K_DEF
+	nicht_aktiv
+AUTO_EIN_BEI_KL_15_K_WS
+	nicht_aktiv
+AUTO_EIN_BEI_KL_15_KEY_1
+	nicht_aktiv
+AUTO_EIN_BEI_KL_15_KEY_2
+	nicht_aktiv
+AUTO_EIN_BEI_KL_15_KEY_3
+	nicht_aktiv
+AUTO_EIN_BEI_KL_15_KEY_4
+	nicht_aktiv
+GEBL_OFFSET_KEY_1
+	nicht_aktiv
+GEBL_OFFSET_KEY_2
+	nicht_aktiv
+GEBL_OFFSET_KEY_3
+	nicht_aktiv
+GEBL_OFFSET_KEY_4
+	nicht_aktiv
+GEBL_OFFSET_KEY_DEF
+	nicht_aktiv
+GEBL_OFFSET_KEY_WS
+	nicht_aktiv
+KOMPRESSOR_KUPPLUNG
+	aktiv
+LAENDERVARIANTE_USA
+	aktiv
+LV-TASTER_ANZAHL_LEDS_1
+	aktiv
+MOTOR_ART_IHKA
+	diesel_direkt
+OFF_MEMORY_KEY_DEF
+	nicht_aktiv
+OFF_MEMORY_KEY_WS
+	nicht_aktiv
+PIA_IHKA
+	aktiv
+TEMP_OFFSET_KEY_1
+	nicht_aktiv
+TEMP_OFFSET_KEY_2
+	nicht_aktiv
+TEMP_OFFSET_KEY_3
+	nicht_aktiv
+TEMP_OFFSET_KEY_4
+	nicht_aktiv
+TEMP_OFFSET_KEY_DEF
+	nicht_aktiv
+TEMP_OFFSET_KEY_WS
+	nicht_aktiv
+UMLUFT_MEMORY_KEY_1
+	nicht_aktiv
+UMLUFT_MEMORY_KEY_2
+	nicht_aktiv
+UMLUFT_MEMORY_KEY_3
+	nicht_aktiv
+UMLUFT_MEMORY_KEY_4
+	nicht_aktiv
+UMLUFT_MEMORY_KEY_DEF
+	nicht_aktiv
+UMLUFT_MEMORY_KEY_WS
+	nicht_aktiv
+USA_LV_INDIVIDUAL
+	nicht_aktiv
+VA_IGNORIEREN
+	nicht_aktiv
+HEIZUNG_LUEFTUNG_3_SITZR
+	nicht_aktiv
+REST_ANZ_WENN_VERFUEGBAR
+	nicht_aktiv
+RUECKFAHRKAMERA
+	nicht_aktiv
+ELSV_EH_LAENGE
+	aktiv
+ELSV_EH_NEIGUNG
+	aktiv
+ELSV_PRIO_ACHSEN
+	hw
+ELSV_TIMEOUT
+	to_30sec
+ALKS
+	nicht_aktiv
+PDC_IHKA
+	nicht_aktiv
+AC_EIN_BEI_AUTO_TASTE
+	nicht_aktiv
+KOMPRESSOR_TYP
+	r134a_gross
+MSA_AKUSTIK_EA
+	nicht_aktiv
+MSA_EKK_LIMIT_EA
+	nicht_aktiv
+MSA_FUNKTION_IHKA
+	nicht_aktiv
+PARKHILFE_L6
+	aktiv
+AC_AUS_BEI_KL_15_AUS
+	nicht_aktiv
+EA_AV_OBD_OFF
+	nicht_aktiv
+PTC_BAUKASTEN
+	aktiv
+BESCHLAGSENSOR
+	hella_kafas
+DYN_WK_BESCHLAGSENSOR
+	aktiv
+CC_HEIZ_LUEFT_STAND_AKTIV
+	aktiv
+ENTFALL_FOND_SCHICHTUNG
+	aktiv
+LV_VERST_BASIS_M_RUEKOHU
+	aktiv
